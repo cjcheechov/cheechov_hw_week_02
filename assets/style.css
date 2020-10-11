@@ -1,0 +1,40 @@
+.navbar-brand mb-0 h1 {
+
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+
+}
+
+body {
+
+    background-color: rgb(173, 156, 156);
+}
+
+nav {
+
+    margin-bottom: 20px;
+}
+
+img {
+
+    float: left;
+    margin: 20px;
+}
+
+footer {
+
+    background-color: gray;
+    text-align: center;
+    color: teal;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
